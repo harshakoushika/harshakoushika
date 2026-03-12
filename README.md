@@ -55,6 +55,16 @@ Modern responsive web applications built using React and component-based archite
 
 ---
 
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=harshakoushika&theme=tokyonight)
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=harshakoushika&theme=tokyonight&no-frame=true&row=1)
+
+## 📈 Contribution Graph
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshakoushika&theme=tokyo-night)
+
 ## 🌱 Currently Learning
 
 * Data Structures & Algorithms
