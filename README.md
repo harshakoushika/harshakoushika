@@ -6,11 +6,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshakoushika&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
-
----
 
 ## 🚀 Tech Stack
 
@@ -53,5 +48,8 @@
 ## 🌐 Connect with Me
 
 * LinkedIn: https://www.linkedin.com/in/harsha-koushika-a33a46284/
-* GitHub: https://github.com/harshakoushika
 * Email: [harshakoushika.09@gmail.com](mailto:harshakoushika.09@gmail.com)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshakoushika&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
