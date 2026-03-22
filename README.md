@@ -4,16 +4,7 @@
 💻 Interested in Full Stack Development, AI/ML, and Data Analysis
 🚀 Passionate about building scalable software and solving real-world problems
 
----
 
-
-## 🚀 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,bootstrap,mysql,mongodb,git,github,vscode" />
-</p>
-
----
 
 ## 🏆 GitHub Trophies
 
